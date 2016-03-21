@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1374282463 source:c:\users\eduardo\desktop\proyecto_final\comunes.c
+	"comunes.h"
+	<conio.h>
+
+1374298371 c:\users\eduardo\desktop\proyecto_final\comunes.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1374264934 source:c:\users\eduardo\desktop\proyecto_final\estudios.c
+	"comunes.h"
+
+1374279020 source:c:\users\eduardo\desktop\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunes.h"
+	<conio.c>
+
+1374246934 source:c:\users\ernesto\desktop\proyecto_final\estudios.c
+	"comunes.h"
+
+1374280371 c:\users\ernesto\desktop\proyecto_final\comunes.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1374261020 source:c:\users\ernesto\desktop\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunes.h"
+	<conio.c>
+
+1374264463 source:c:\users\ernesto\desktop\proyecto_final\comunes.c
+	"comunes.h"
+	<conio.h>
+
+1374299093 source:c:\users\eduardo\desktop\proyecto_final\pacientes.c
+	"comunes.h"
+
+1374264934 source:c:\users\eduardo\desktop\proyecto_final\departamento.c
+	"comunes.h"
+
+1374246934 source:c:\users\ernesto\desktop\proyecto_final\departamento.c
+	"comunes.h"
+
+1374281093 source:c:\users\ernesto\desktop\proyecto_final\pacientes.c
+	"comunes.h"
+
+1374284111 source:c:\users\ernesto\desktop\proyecto_final\turnero.c
+	"comunes.h"
+
+1374299765 source:c:\users\eduardo\desktop\proyecto_final\turnero.c
+	"comunes.h"
+
+1374262028 source:c:\users\ernesto\desktop\proyecto_final\quicksort.c
+	"comunes.h"
+
+1374051618 c:\users\ernesto\desktop\proyecto_final\quicksort.h
+
+1374280028 source:c:\users\eduardo\desktop\proyecto_final\quicksort.c
+	"comunes.h"
+
+1374344222 source:c:\users\eduardo\desktop\photoshoots\proyecto_final\comunes.c
+	"comunes.h"
+	<conio.h>
+
+1374298371 c:\users\eduardo\desktop\photoshoots\proyecto_final\comunes.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1374264934 source:c:\users\eduardo\desktop\photoshoots\proyecto_final\departamento.c
+	"comunes.h"
+
+1374264934 source:c:\users\eduardo\desktop\photoshoots\proyecto_final\estudios.c
+	"comunes.h"
+
+1374279020 source:c:\users\eduardo\desktop\photoshoots\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunes.h"
+	<conio.c>
+
+1374299093 source:c:\users\eduardo\desktop\photoshoots\proyecto_final\pacientes.c
+	"comunes.h"
+
+1374280028 source:c:\users\eduardo\desktop\photoshoots\proyecto_final\quicksort.c
+	"comunes.h"
+
+1374329349 source:c:\users\eduardo\desktop\photoshoots\proyecto_final\turnero.c
+	"comunes.h"
+
+1374600569 source:c:\users\eduardo\google drive\pucmm-isc\3-2012-2013\fundamento de programacion\proyecto_final (1)\comunes.c
+	"comunes.h"
+	<conio.h>
+
+1374600571 c:\users\eduardo\google drive\pucmm-isc\3-2012-2013\fundamento de programacion\proyecto_final (1)\comunes.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1374600572 source:c:\users\eduardo\google drive\pucmm-isc\3-2012-2013\fundamento de programacion\proyecto_final (1)\departamento.c
+	"comunes.h"
+
+1374600576 source:c:\users\eduardo\google drive\pucmm-isc\3-2012-2013\fundamento de programacion\proyecto_final (1)\estudios.c
+	"comunes.h"
+
+1374600579 source:c:\users\eduardo\google drive\pucmm-isc\3-2012-2013\fundamento de programacion\proyecto_final (1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"comunes.h"
+	<conio.c>
+
+1374600601 source:c:\users\eduardo\google drive\pucmm-isc\3-2012-2013\fundamento de programacion\proyecto_final (1)\pacientes.c
+	"comunes.h"
+
+1374600618 source:c:\users\eduardo\google drive\pucmm-isc\3-2012-2013\fundamento de programacion\proyecto_final (1)\quicksort.c
+	"comunes.h"
+
+1374600621 source:c:\users\eduardo\google drive\pucmm-isc\3-2012-2013\fundamento de programacion\proyecto_final (1)\turnero.c
+	"comunes.h"
+
